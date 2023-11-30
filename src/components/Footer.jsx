@@ -11,10 +11,10 @@ const Footer = (props) => {
         <i className="fas fa-code" /> with <i className="fas fa-heart" /> by{" "}
         <a
           rel="noopener"
-          href="https://github.com/hashirshoaeb"
+          href="https://github.com/12958954"
           aria-label="My GitHub"
         > <span className="badge bg-dark">
-            Hashir Shoaib
+            Haifan Wang
           </span>
         </a>{" "}
         using <i className="fab fa-react" />
